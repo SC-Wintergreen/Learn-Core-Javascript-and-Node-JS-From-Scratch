@@ -1,0 +1,4 @@
+1. Perform Substraction Operation Between 50 and 30
+2. Perform Multiplication  Operation Between 50 and 3 *
+3. Perform Division Operation Between 40 and 2 /
+4. Write A Program Which Prints Hello "Lukashenko"
